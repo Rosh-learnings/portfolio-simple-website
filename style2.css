@@ -1,0 +1,104 @@
+*{
+    padding:0;
+    margin: auto;
+}
+body{
+    font-family: "Alegreya", serif;
+}
+
+.container{
+    background-image:url(https://mobimg.b-cdn.net/v3/fetch/6d/6dd4ffa036181246ee107c961b9c8abb.jpeg?h=1400);
+    height: 750px;
+
+}
+.section-one{
+   
+   color:aliceblue;
+}
+.section-one__name{
+    
+    font-size: 70px;
+    padding-left: 600px;
+    padding-top: 50px;
+}
+.section-one__role{
+    padding-left: 570px;
+    font-size: 45px;
+    padding-bottom: 10px;
+    padding-right: 200px;
+}
+.section-one__home{
+    padding-left: 700px;
+    color:bisque;
+    font-size:25px;
+    padding-bottom: 15px;
+}
+.section-two__name{
+    color:aliceblue;
+    padding:5px;
+    font-size: 20px;
+    margin: 10px;
+    padding-left: 60px;
+}
+.name{
+    color:aliceblue;
+    padding:15px;
+    font-size: 35px;
+}
+.mail{
+    color:aliceblue;
+    padding:5px;
+    font-size: 35px;
+}
+.section-two__mail{
+    color:aliceblue;
+    padding:5px;
+    font-size: 20px;
+    margin: 10px;
+    padding-left: 60px;
+}
+.msg{
+    color:aliceblue;
+    padding:5px;
+    font-size: 35px;
+}
+.section-two__textarea{
+    color:aliceblue;
+    padding:5px;
+    font-size: 20px;
+    margin: 10px;
+    padding-left: 60px;
+}
+.section-one__input{
+    color:black;
+    background-color:bisque;
+    padding-right:20px;
+    border: none;
+    outline: none;
+    margin:15px;
+    font-size: 17px;
+    margin-left:60px;
+}
+.section-one__input:hover{
+    color: #c0c0c0;
+    background-color:#0000ff5e;
+}
+.part-four__socialmedia{
+    padding-left:600px;
+    padding-top: 70px;
+    color:silver;
+    font-size: 20px;
+}
+.part-four__copy{
+    padding-left: 600px;
+    padding-top: 10px;
+    color:#c0c0c0;
+    font-size: 20px;
+}
+.part-four__socialmedia a{
+    color:bisque;
+}
+.sub{
+    padding-right:100px;
+}
+
